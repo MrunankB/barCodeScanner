@@ -1,11 +1,9 @@
-# Sample Snack app
+# Bar Code Scanner
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Hey! I made a real time Bar-Code-Scanner for those who dont have these! Download Expo-Go on your mobile and scan the QR Code below:
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+![Qr-Code](https://user-images.githubusercontent.com/84667872/120753435-c76b6500-c528-11eb-88a2-b261213793d9.PNG)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+It looks like this on an iOS device:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+![iOS](https://user-images.githubusercontent.com/84667872/120753487-dc47f880-c528-11eb-90f1-2e5adfa38cfe.PNG)
